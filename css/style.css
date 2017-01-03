@@ -538,6 +538,7 @@ iframe{
 	margin-bottom: 73px;
 }
 .frame-border {
+	border:0px;
 	border-radius:4px;
 }
 /*--------------slider-------------------*/
