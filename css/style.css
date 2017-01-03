@@ -1,0 +1,968 @@
+h2{
+	font: 48px 'GothaProMed',sans-serif;
+	color: #333;
+}
+p{
+	color: #333;
+}
+a{
+	display: inline-block;
+	text-decoration: none;
+	color: #ff1744;
+	font: 18px 'GothaProBol', sans-serif;
+	text-transform: uppercase;
+	margin-left: -2px;
+	background: #fff;
+	border: 3px solid #ff1744;
+	padding: 16px 27px;
+	border-radius: 5px ;
+}
+a:hover{
+	background: #ff1744;
+	color: #fff;
+}
+.container{
+	width: 100%;
+	margin: 0 auto;
+	height: auto;
+	max-width: 1170px;
+}
+/*------------------header----------------------------------*/
+header{
+	height: 1100px;
+	overflow: hidden;
+	background: url(../img/header.jpg) no-repeat top center;
+}
+
+.title{
+	text-align: center;
+}
+header .title h1{
+	font: 60px 'GothaProBol', sans-serif;
+	color: #fff;
+	margin: 86px 0px 0px 1px;
+}
+.tit{
+	margin-left: 1px;
+	margin-top: 6px;
+	display: inline-block;
+	
+}
+.right-col{
+	float: right;
+	width: 50%;
+	margin-left: 20px;
+}
+
+.title p{
+	margin-top: 7px;
+	margin-left: -6px;
+}
+.title p, .right-col p{
+	font: 30px 'GothaProReg', sans-serif;
+	color: #fff	;
+} 
+.right-col h2{
+	font: 42px 'GothaProMed',sans-serif;
+	color: #b6f1ff;
+	margin-top: 99px;
+	margin-left: 14px;
+}
+.rihg{
+	display: inline-block;
+	margin-top: 3px;
+}
+.rihg1{
+	font: 30px 'GothaProReg', sans-serif;
+	margin-top: 16px;
+	margin-left: 3px;
+	color: #fff;
+	display: inline-block;
+}
+.right-col p{
+	line-height: 1;
+	margin-top: 64px;
+	margin-left: 10px;
+	margin-bottom: 50px;
+}
+.right-col a {
+	display: inline-block;
+	text-decoration: none;
+	color: #fff;
+	font: 24px 'GothaProBla', sans-serif;
+	margin-top: 26px;
+	margin-left: 16px;
+	background: #ff1744;
+	padding: 21px 30px;
+	border-radius: 3px ;
+	text-transform: uppercase;
+	-webkit-box-shadow: 0px 5px 0px 0px rgba(255,23,68,0.75);
+	-moz-box-shadow: 0px 5px 0px 0px rgba(255,23,68,0.75);
+	box-shadow: 0px 5px 0px 0px rgba(255,23,68,0.75);
+}
+.right-col a:hover{
+	background: #fff;
+	color: #ff1744;
+}
+/*--------------------------section"fierst"-------------------*/
+section.fierst{
+	
+	height: 1085px;
+}
+section.fierst h2{
+	text-align: center;
+	margin-top:  64px;
+	margin-bottom: 92px;
+}
+.fier{
+	display: inline-block;
+	margin-top: 11px;
+	margin-left: -2px;
+}
+.col{
+	float: left;
+	width: 25%;
+}
+.col-img{
+	width: 100%;
+	margin-left: 39%;
+	margin-bottom: 40px;
+
+}
+.col-text {
+	margin-bottom: 80px;
+	margin-top: -11px;
+	text-align: center;
+	font: 18px 'GothaProLig', sans-serif;
+}
+.col-text p{
+	line-height: 30px;
+	margin-top: -13px;
+}
+.col-text1{
+	margin-top: -22px;
+	margin-left: 7px;
+	
+}
+p span{
+	font: 20px 'GothaProMed', sans-serif;
+	color: #333;
+}
+.man1{
+	margin-top: 1px;
+	margin-left: -1px;
+	margin-bottom: -3px;
+}
+.course, .life{
+	margin-top: -2px;
+	margin-left: -7px;
+}
+
+.life{
+	font: 18px 'GothaProLig', sans-serif;
+}
+.man2{
+	margin-top: 5px;
+	margin-left: 2px;
+}
+.icon3{
+	margin-top:	-8px;
+	margin-left: 	2px;
+}
+.sale, .sale2{
+	margin-left: -1px;
+	font: 18px 'GothaProLig', sans-serif;
+}
+.sale2{
+	margin-left: -5px;
+}
+.clock{
+	margin-top: -22px;
+	margin-left: 	3px;
+}
+.time{
+	margin-left: 9px;
+	font: 18px 'GothaProLig', sans-serif;
+}
+.money{
+	margin-top: 8px;
+	margin-left: 2px;
+} 
+.income, .income2{
+	margin-left: 5px;
+	font: 18px 'GothaProLig', sans-serif;
+}
+.income2{
+	margin-left: -4px;
+}
+.icon5{
+	margin-left: 	2px;
+}
+.easy, .easy2{
+	margin-left: -1px;
+	font: 18px 'GothaProLig', sans-serif;
+}
+.easy2{
+	margin-left: 4px;
+}
+.icon6{
+	margin-top: -9px;
+	margin-left: 1px;
+}
+
+.ind, .ind2{
+	margin-left: 4px;
+	font: 18px 'GothaProLig', sans-serif;
+}
+.ind2{
+	margin-left: -3px;
+}
+.icon7{
+	margin-left: 2px;
+	margin-top: 4px;
+	margin-bottom: -2px;
+}
+.result{
+	margin-left: 6px;
+}
+.result2{
+	margin-left: 5px;
+	font: 18px 'GothaProLig', sans-serif;
+}
+
+
+.icon8{
+	margin-top: -10px;
+	margin-left: 2px;
+}
+.support{
+	margin-left: 6px;		
+}
+.support2{
+	margin-left: 4px;
+	font: 18px 'GothaProLig', sans-serif;
+}
+.icon9{
+	margin-top: -11px;
+	margin-left: 1px;
+}
+.freedom, .freedom2, .freedom3{
+	margin-left: 15px;
+	font: 18px 'GothaProLig', sans-serif;
+} 
+.freedom2{
+	margin-left: 4px;
+}
+.freedom3{
+	margin-left: -6px;
+}  
+/*----------------------second--------------------*/
+section.second{
+	background: #f5f5f5;
+}
+.second .title2{
+	font-family: 'GothaProMed',sans-serif;
+	text-align: center;
+}
+.title2 h2{
+	margin-top: -58px;
+	margin-left: -2px;
+	padding-top: 62px;
+}
+.title2 p{
+	font: 24px 'GothaProLig',sans-serif;
+	color: #333;
+	margin-top: -29px;
+	margin-bottom: 5px;
+} 
+.block{
+	width: 100%;
+	height: 650px;
+	border-bottom: 1px solid #cfd8dc;
+}
+section.second img{
+	display: inline-block;
+}
+.col_left{
+	float: left;
+	width: 50%;
+	clear: left;
+
+}
+.col_left.textL{
+	text-align: right;
+}
+.col_right{
+	float: right;
+	width: 50%;
+
+}
+.col_right.textR{
+
+}
+.img1{
+	margin: 60px 0px 0px 100px;
+}
+
+.col_left h2, .col_right h2{
+	font-family: 'GothaProReg', sans-serif;
+}
+.col_left h3, .col_right h3{
+	font: 24px 'GothaProLig', sans-serif;
+	color: #333
+}
+.col_left p, .col_right p{
+	font: 18px 'GothaProLig', sans-serif;
+	line-height: 1.65em;
+}
+.col_right h2{
+	margin: 96px 0px 0px 9px;
+	
+}
+.col_right h3{
+	margin: 23px 0px 0px 12px;
+}
+.col_right p{
+	
+	margin: 54px 0px -22px 13px;
+}
+.block.block1{
+	height: 659px;
+
+}
+.img2{
+	margin-top: 69px;
+	margin-left: 100px;
+}
+.col_left.textL h2{
+	margin: 116px 9px 0px 0px;
+}
+.col_left.textL h3{
+	margin: 21px 14px 0px 0px;
+}
+.col_left.textL p{
+	
+	margin: 55px 17px -23px 0px;
+}
+.block2{
+	height: 660px;
+}
+.img3{
+	margin: 68px 0px 0px 100px;
+}
+.block2 .textR h2{
+	margin-top: 102px
+}
+
+.block2 .textR h3{
+
+	margin-top: 21px;
+	margin-left: 13px
+}
+.clearfix:after {
+	content: " ";
+	clear: both;
+	display: table;
+}
+.block3{
+	height: 660px
+}
+.block3 .textL h2{
+	margin-top: 108px;
+	margin-right: 8px
+}
+.block3 .textL h3{
+	line-height: 1.29em;
+	margin-top: 21px;
+	margin-right: 13px
+}
+.block3 .textL p{
+	margin-top: 53px;
+}
+.img4{
+	margin: 69px 0px 0px 100px;
+}
+.block4{
+	height: 658px;
+}
+.img5{
+	margin: 67px 0px 0px 99px;
+}
+.block4 .textR h2{
+	margin: 108px 0px 0px 10px;
+}
+.block4 .textR p{
+	margin: 62px 0px -28px 14px;
+}
+.block5{
+	height: 658px;
+}
+.block5 .textL{
+	text-align: left;
+	margin: 7px 0px 0px 111px;
+}
+.block5 .textL h2{
+	margin-top: 114px;
+	margin-left: -4px;
+}
+.block5 .textL h3{
+	
+	line-height: 124%;
+}
+.block5 .textL p{
+	margin-top: 52px;
+	margin-bottom: -20px;
+}
+.img6{
+	margin: -67.5% 0px 0px 100px;
+}
+.block6{
+	height: 660px;
+	border: 0px;
+}
+.img7{
+	margin: 69px 0px 0px 100px
+}
+.block6 .textR h2{
+	margin: 83px 0px 0px 14px;
+	line-height: 121%;
+}
+.block6 .textR h3{
+	margin: 20px 0px 0px 13px
+}
+/*-----------------third--------------*/
+section.third{
+	width: 100%;
+	margin: 0 auto;
+	height: 426px;
+	background: #fff;
+	text-align: center;
+}
+.third .buttonTh{
+	margin-top: 78px;
+	margin-bottom: 78px;
+	font: 18px 'GothaProLig',sans-serif;
+	color: #333;
+}
+.third b{
+	font: 20px 'GothaProMed', sans-serif;
+}
+
+.button100{
+	width: 40%;
+	float: left;
+	margin-left: 96px;
+}
+.button200{
+	width: 40%;
+	float: right;
+	margin-right: 116px;
+}
+.third a{
+	clear: both;
+	margin-top: -19px;
+}
+
+.third img{
+	margin-left: 20px;
+}
+.third p{
+	margin-left: 21px;
+}
+.third p.force{
+	margin-top: -7px;
+} 
+.third p.force1{
+	margin-left: 16px;
+}
+/*------------third------------------*/
+section.fourth{
+	background: #fafafa;
+	position: relative;
+	text-align: center;
+}
+.fourth .ball{
+	position: absolute;
+	top: -9.7%;
+	left: 15.7%;
+}
+.fourth .button1 h2{
+	padding-top: 77px;
+	padding-left: 2px;
+}
+.fourth .button1 img{
+	float: right;
+	display: inline-block;
+	margin-top: -7.2%;
+	margin-right: 11.7%;
+}
+.fourth p{
+	font: 18px 'GothaProLig',sans-serif;
+	line-height: 27px;
+	margin-bottom: 36px;
+}
+
+
+.fourth .button1 p{
+	font-size: 24px ;
+	margin-top: -2.31%;
+	margin-left: -2px;
+}
+.fourth .miracles img{
+	margin-top: 39px;
+}
+
+.fourth p b{
+	display: inline-block;
+	font: 24px 'GothaProMed',sans-serif;
+	margin-top: 56px;
+}
+
+.fourth .fourthF{
+	padding-bottom: 39px;
+}
+/*---------------video--------------------*/
+section.video{
+	text-align: center;
+}
+.video1{
+	border-bottom: 1px solid #bdbdbd;
+}
+.video h2{
+	margin-top: 58px;
+	margin-left: -2px;
+}
+iframe{
+	text-align: center;
+	margin-top: 29px;
+	margin-bottom: 73px;
+}
+.frame-border {
+	border-radius:4px;
+}
+/*--------------slider-------------------*/
+section.fifth{
+	position: relative;
+	background: #fff;
+	font: 18px 'GothaProLig', sans-serif;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 75px;
+}
+.fifth h2{
+	text-align: center;
+	margin-top: 62px;
+	margin-left: -1px;
+}
+section.fifth .small{
+	margin-top: -39px;
+}
+section.fifth img.girl1{
+	margin-left: 10.3%;
+	margin-top: 71px;
+	margin-right: 18.5%;
+}
+section.fifth img.couple1{
+	margin-left: 17.7%;
+	margin-right: 18.5%
+}
+section.fifth hr{
+	margin-top: 6.5%;
+}
+.slider{
+	width: inherit;
+	height: 770px;
+	position: relative;
+	margin-top: -7%;
+}
+.slides{
+	margin-top: 16%;
+	margin-right: 40px;
+	height: inherit;
+	width: inherit;
+	z-index: 0;
+}
+.slider label{
+	float: left;
+	margin: 25px 46px 0px 78px;
+	position: relative;
+	padding-bottom: 1.8%;
+	cursor: pointer;
+}
+label.slide3_1 {
+	margin-left: 52px;
+}
+label.slide4_1{
+	margin-left: 85px;
+}
+.slider>.slides{
+	position: absolute;
+	transition: all 0.5s;
+	left: 0;
+	top: 0;
+}
+.slider > input{
+	display: none;
+}
+.slider >input:checked + label{
+	font: 20px 'GothaProMed', sans-serif;
+	border-bottom: 7px solid #ff1744;
+}
+.slider>input+label:hover{
+	font: 20px 'GothaProMed', sans-serif;
+	border-bottom: 7px solid #ff1744;
+}
+.slider > .slides {
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 0.8s ease-out 0.1s, visibility 0.1s ease-out 0.9s;
+}
+
+.slider > input:checked + label + .slides {
+	visibility: visible;
+	opacity: 1;
+	transition: opacity 0.8s ease-out 0.1s, visibility 0.1s ease-out 0s;
+}
+.slides ul > li{
+	list-style-image: url(../img/circll.png);
+	padding-left: 22px;
+	line-height: 29px;
+	margin-bottom: 31px;
+}
+.slides img{
+	margin-top: 27px;
+	margin-left: 54px;
+}
+.textSl{
+	float: right;
+	margin-right: 23px;
+}
+.slides h2{
+	font-family: 'GothaProReg', sans-serif;
+	margin: -6px 0px 63px -13.5%;
+}
+.slides span{
+	color: #333;
+	font: 18px 'GothaProLig', sans-serif;
+}
+.slides img.girl{
+	margin-top: 	-48px;
+	margin-left: 	165px;
+}
+.slides h2.girl {
+	margin-left: 	-25%;
+}
+.slide1 .textSl ul{
+	margin-right: 	35px;
+}
+.slides img.reboot{
+	margin-left: 	90px;
+	margin-top:	13px;
+}
+.slide2 .textSl{
+	margin-right: 27px;
+}
+.slide2 h2{
+	margin-left: 	22px;
+}
+.slide4 img{
+	margin-top: 69px;
+	margin-left: 36px;
+}
+.slide4 .textSl{
+	margin-right: 32px;
+}
+.slide4 h2{
+	margin-right: 95px;
+}
+/*---------------table----------------*/
+section.table_1{
+	height: 1105px;
+	background: #f5f5f5;
+	margin-bottom: 75px;
+}
+table{
+	padding-top: 100px;
+	margin: auto;
+	border-collapse: separate;
+	border-spacing: 10px 0px;
+	empty-cells: hide;
+	font: 18px 'GothaProLig', sans-serif;
+	color: #333;
+
+
+}
+th{
+	padding: 22px;
+	font: 20px 'GothaProMed', sans-serif;
+	color: #fff;
+	line-height: 1.5;
+	background: #4555a5;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;	
+}
+th:nth-child(4){
+	background: #ff1744;
+}
+td{
+	position: relative;
+	padding: 16px 32px;
+	text-align: center;
+	background: #fff;
+	-webkit-box-shadow: 0px 1px 1px 0px rgba(233,233,233,0.98);
+	-moz-box-shadow: 0px 1px 1px 0px rgba(233,233,233,0.98);
+	box-shadow: 0px 1px 1px 0px rgba(233,233,233,0.98);
+}
+td:before {
+	position: absolute;
+	width: 80%;
+	bottom: 0px;
+	top: 0px;
+	left: 23px;
+	border-bottom: 1px solid #e9e9e9;
+	content: '';
+}
+td:first-child{
+	text-align: left;
+}
+.top{
+	border-top-left-radius: 10px;
+}
+.bottom{
+	border-bottom-left-radius: 10px;
+}
+.saving{
+	font: 20px 'GothaProMed', sans-serif;
+}
+.days{
+	font: 24px 'GothaProMed', sans-serif;
+}
+.discount{
+	font: 30px 'GothaProMed', sans-serif;
+}
+.cost{
+	background: #4555a5;
+	color: #fff;
+	font: 20px 'GothaProMed', sans-serif; 
+}
+.cost1{
+	background: #ff1744;
+	color: #fff;
+}
+.method{
+	padding: 8px 32px;
+	line-height: 1;
+}
+table a{
+	text-decoration: none;
+	text-transform: none;
+	font: 18px 'GothaProReg', sans-serif;
+	color: #fff;
+	background: #ff1744;
+	padding: 12px 25px;
+	border: 0px;
+	border-radius: 5px;
+}
+td.link a:hover:after{
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: #4555a5;
+	color: #ff1744	;
+}
+.link{
+	padding: 0px 0px 20px 0px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom: 1px solid #d0d0d0;
+}
+
+/*----------section sixth------------*/
+section.sixth{
+	text-align: center;
+	background: #fff;
+}
+section.sixth h2{
+	text-align: center;
+	font: 36px 'GothaProReg', sans-serif;
+	margin-top: -9px;
+	line-height: 1.2;
+}
+.sixth p{
+	font: 20px 'GothaProMed', sans-serif;
+	margin-top: 4%;
+}
+.timer{
+	margin-top: 25px;
+	font: 18px 'GothaProMed', sans-serif;
+}
+.sixth a{
+	margin-top: 55px;
+	margin-bottom: 41px;
+}
+/*-----section seventh-----*/
+section.seventh{
+	background: #f5f5f5;
+	text-align: center;
+	padding-bottom: 33px;
+}
+.seventh h2{
+	padding-top: 65px;
+	padding-bottom: 20px;
+	margin-top: 37px;
+}
+.seventh img.about{
+	float: left;
+	margin-right: 33px;
+	margin-left: 18%;
+	margin-top: 3%;
+}
+.seventh img.about.purse{
+	margin-top: 0.7%;
+}
+.seventh p{
+	text-align: left;
+	font: 18px 'GothaProLig', sans-serif;
+	margin-bottom: 39px;
+	line-height: 1.7;
+	margin-left: 26%;
+}
+.email{
+	color: #ff1744;
+	font: 18px 'GothaProLig', sans-serif;
+}
+/*----------------section eighth---------*/
+section.eighth{
+	text-align: center;
+}
+section.eighth h2{
+	padding-top: 22px;
+	margin-left: -4px;
+	margin-bottom: 70px;
+}
+.big{
+	border-bottom: 1px solid #bdbdbd;
+	margin-left: 75px;
+	padding-bottom: 71px;
+}
+section.eighth img{
+	margin-right: 89px;
+}
+.step img.step1{
+	margin-left: 16px;
+}
+section.eighth img:last-child{
+	margin-right: 0px;
+}
+section.eighth a{
+	font: 18px 'GothaProLig',sans-serif;
+	margin: 0;
+	padding: 0; 
+	color: #333;
+	border: 0px;
+	text-transform: none;
+	margin-top: 26px;
+	margin-left: -197px;
+	line-height: 	1.7;
+}
+section.eighth a:hover{
+	background: none;
+	color: #ff1744;
+}
+.step{
+	display: inline-block;
+}
+.step a.step1{
+	margin-left: -188px;
+}
+.step a.step4{
+	margin-right: -107px;
+}
+
+.eighth a span{
+	font: 20px 'GothaProMed', sans-serif;
+}
+.eighth img.direction{
+	margin-bottom: 24px;
+}
+/*--------------------section ninth-----------------*/
+.question_mark{
+	background: #fff;
+	margin-left: 	18%;	
+}
+.ninth h2{
+	text-align: center;
+	margin-top: 62px;
+	margin-bottom: 61px;
+}
+.ninth img.question{
+	float: left;
+	margin-right: 28px;	
+}
+.ninth h3{
+	text-align: left;	
+	font: 20px 'GothaProMed',sans-serif;
+	color: #333;
+	padding-top: 5px;
+}
+.ninth p{
+	margin: 35px 0px 59px -2px;
+	text-align: left;	
+	font: 18px 'GothaProLig', sans-serif;
+	line-height: 1.7;
+}
+/*--------------------footer-----------------*/
+footer{
+	text-align: center;
+	background: #303f9f;
+	margin-top: 72px;
+}
+footer p{
+	font: 18px 'GothaProLig', sans-serif;
+	color: #fff;
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+footer p span{
+	display: inline-block;
+	margin-top: 9px;
+	font: 18px 'GothaProLig', sans-serif;
+	color: #fff;
+}
+
+@media screen and (max-width: 991px) {
+
+header .title h1{
+		font-size: 48px;
+	}
+	h2{
+		font-size: 30px;
+	}
+	p{
+		font-size: 12px;
+	}
+}
+
+@media screen and (max-width: 1024px){
+	.button200{
+		width: 39%;
+	}
+	.slider label{
+		margin: 25px 5px 0px 78px;
+	}
+}
+@media screen and (max-width: 768px){
+	.button200{
+		width: 29%;
+	}
+	.slider label{
+		margin: 25px -4px 0px 78px;
+	}
+}
+
+@media screen and (max-width: 505px){
+	section.fifth img.couple1 {
+		margin-left: 14.7%;
+		margin-right: 14.5%;
+	}
+}		
